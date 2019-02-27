@@ -1,0 +1,8 @@
+Validation method: 5 times 5-fold cross-validation
+With states: [2, 42, 84, 53, 50]
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Average total Sum of Squared Errors = 31.576, 26.64
+Average accuracy first actual vs first predicted (> 0.167?) = 0.2, 0.13
+Average accuracy top three actual vs first predicted (> 0.5?) = 0.622, 0.137
+

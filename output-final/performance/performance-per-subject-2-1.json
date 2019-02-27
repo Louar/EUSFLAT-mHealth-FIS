@@ -1,0 +1,290 @@
+{
+    "102074": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "free_spirit": {
+            "actual": 0.9259999999999999,
+            "predicted": 1.0252440208511866,
+            "squaredError": 0.009849375674710774
+        },
+        "achiever": {
+            "actual": 0.9259999999999999,
+            "predicted": 1.2603701940989658,
+            "squaredError": 0.11180342670178009
+        },
+        "disruptor": {
+            "actual": 0.37,
+            "predicted": 0.6832945784083424,
+            "squaredError": 0.098153492860061
+        },
+        "player": {
+            "actual": 0.889,
+            "predicted": 1.4731349412515513,
+            "squaredError": 0.3412136295909533
+        }
+    },
+    "102192": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 0.857,
+            "predicted": 0,
+            "squaredError": 0.734449
+        },
+        "free_spirit": {
+            "actual": 1.0,
+            "predicted": 0.9613225027528937,
+            "squaredError": 0.0014959487932999186
+        },
+        "achiever": {
+            "actual": 1.0,
+            "predicted": 0.7480193268808275,
+            "squaredError": 0.06349425962559126
+        },
+        "disruptor": {
+            "actual": 1.0,
+            "predicted": 0.6931961924499632,
+            "squaredError": 0.09412857632720001
+        },
+        "player": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        }
+    },
+    "102067": {
+        "philanthropist": {
+            "actual": 0.84,
+            "predicted": 0,
+            "squaredError": 0.7055999999999999
+        },
+        "socialiser": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "free_spirit": {
+            "actual": 1.0,
+            "predicted": 0.9070251511360968,
+            "squaredError": 0.008644322521265636
+        },
+        "achiever": {
+            "actual": 0.88,
+            "predicted": 0.7808915779354187,
+            "squaredError": 0.009822479324131177
+        },
+        "disruptor": {
+            "actual": 0.72,
+            "predicted": 0.6632701124705765,
+            "squaredError": 0.003218280139101032
+        },
+        "player": {
+            "actual": 0.84,
+            "predicted": 0.5264206585845882,
+            "squaredError": 0.09833200336252337
+        }
+    },
+    "102151": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 0.92,
+            "predicted": 0,
+            "squaredError": 0.8464
+        },
+        "free_spirit": {
+            "actual": 0.92,
+            "predicted": 0.8917041076672936,
+            "squaredError": 0.0008006575229041164
+        },
+        "achiever": {
+            "actual": 0.8,
+            "predicted": 0.9439775862699646,
+            "squaredError": 0.020729545348125097
+        },
+        "disruptor": {
+            "actual": 0.72,
+            "predicted": 0.6581974003135591,
+            "squaredError": 0.0038195613280024602
+        },
+        "player": {
+            "actual": 0.96,
+            "predicted": 1.0453943310064946,
+            "squaredError": 0.00729219176804677
+        }
+    },
+    "102170": {
+        "philanthropist": {
+            "actual": 0.9129999999999999,
+            "predicted": 0,
+            "squaredError": 0.8335689999999999
+        },
+        "socialiser": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "free_spirit": {
+            "actual": 1.0,
+            "predicted": 0.9053977402727457,
+            "squaredError": 0.008949587545502888
+        },
+        "achiever": {
+            "actual": 0.9570000000000001,
+            "predicted": 0.9504936733984825,
+            "squaredError": 4.233228584561583e-05
+        },
+        "disruptor": {
+            "actual": 0.696,
+            "predicted": 0.6859741825234595,
+            "squaredError": 0.00010051701607290313
+        },
+        "player": {
+            "actual": 1.0,
+            "predicted": 0.7038615501383056,
+            "squaredError": 0.08769798148648726
+        }
+    },
+    "102039": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 0.88,
+            "predicted": 0,
+            "squaredError": 0.7744
+        },
+        "free_spirit": {
+            "actual": 0.96,
+            "predicted": 1.5250787397055052,
+            "squaredError": 0.31931398206716216
+        },
+        "achiever": {
+            "actual": 0.88,
+            "predicted": 3.512998363926636,
+            "squaredError": 6.932680384440342
+        },
+        "disruptor": {
+            "actual": 0.72,
+            "predicted": 0.5972364512511709,
+            "squaredError": 0.015070888901406142
+        },
+        "player": {
+            "actual": 0.76,
+            "predicted": 0.7153273225635468,
+            "squaredError": 0.001995648109341395
+        }
+    },
+    "102150": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "free_spirit": {
+            "actual": 1.0,
+            "predicted": 0.8731752210147788,
+            "squaredError": 0.016084524564650194
+        },
+        "achiever": {
+            "actual": 0.852,
+            "predicted": 0.7334369143987352,
+            "squaredError": 0.01405720526729285
+        },
+        "disruptor": {
+            "actual": 0.593,
+            "predicted": 0.5855351256465575,
+            "squaredError": 5.572434911268287e-05
+        },
+        "player": {
+            "actual": 0.889,
+            "predicted": 1.694019339281275,
+            "squaredError": 0.6480561366168606
+        }
+    },
+    "102193": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0,
+            "squaredError": 1.0
+        },
+        "socialiser": {
+            "actual": 0.852,
+            "predicted": 0,
+            "squaredError": 0.725904
+        },
+        "free_spirit": {
+            "actual": 0.667,
+            "predicted": 0.973398464527507,
+            "squaredError": 0.09388001906481394
+        },
+        "achiever": {
+            "actual": 0.889,
+            "predicted": 1.009373102349868,
+            "squaredError": 0.014489683769331792
+        },
+        "disruptor": {
+            "actual": 0.519,
+            "predicted": 0.6959330957797238,
+            "squaredError": 0.031305320382196924
+        },
+        "player": {
+            "actual": 0.556,
+            "predicted": 0,
+            "squaredError": 0.3091360000000001
+        }
+    },
+    "102112": {
+        "philanthropist": {
+            "actual": 1.0,
+            "predicted": 0.5801765354270815,
+            "squaredError": 0.17625174140600858
+        },
+        "socialiser": {
+            "actual": 0.9470000000000001,
+            "predicted": 0,
+            "squaredError": 0.8968090000000001
+        },
+        "free_spirit": {
+            "actual": 1.0,
+            "predicted": 0.8907671725070642,
+            "squaredError": 0.011931810602101479
+        },
+        "achiever": {
+            "actual": 0.789,
+            "predicted": 0.7339235711386595,
+            "squaredError": 0.003033413016118308
+        },
+        "disruptor": {
+            "actual": 0.737,
+            "predicted": 0.6977663796987528,
+            "squaredError": 0.0015392769619424378
+        },
+        "player": {
+            "actual": 0.789,
+            "predicted": 0.8590266981597638,
+            "squaredError": 0.004903738455158668
+        }
+    }
+}

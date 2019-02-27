@@ -1,0 +1,666 @@
+{
+    "philanthropist": [
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "1.9162145873931822 + 0.27572075311153493 * 'supports' + 0.20467479060063098 * 'view_challenge' + 0.716198245293116 * 'view_newsfeed' + 0.12740169778840785 * 'view_team' + -0.012995516265270929 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "0.11107753206726761 + 0.02613951314189248 * 'supports' + 0.018095836637508963 * 'view_challenge' + 0.029108911320786995 * 'view_newsfeed' + 0.0114457170186111 * 'view_team' + -0.003756226374172448 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "0.7557340277023095 + 0.06175634899146572 * 'supports' + 0.04854875185884357 * 'view_challenge' + 0.32423033598466217 * 'view_newsfeed' + 0.03325946218582627 * 'view_team' + 0.0027426264243660984 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.36304447978752397 + 0.02916311651453577 * 'supports' + 0.022631241696473445 * 'view_challenge' + 0.15458845128547485 * 'view_newsfeed' + 0.01598112207757572 * 'view_team' + 0.0007791786847921702 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "0.48148072212670356 + 0.06505961901386359 * 'supports' + 0.048070317218865954 * 'view_challenge' + 0.18152226812498976 * 'view_newsfeed' + 0.03073772031816965 * 'view_team' + -0.003401341892348784 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "0.11107753206726645 + 0.0261395131418965 * 'supports' + 0.018095836637508834 * 'view_challenge' + 0.029108911320786995 * 'view_newsfeed' + 0.0114457170186111 * 'view_team' + -0.0037562263741724618 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "0.7557340277023101 + 0.06175634899146307 * 'supports' + 0.048548751858849354 * 'view_challenge' + 0.3242303359846626 * 'view_newsfeed' + 0.03325946218582633 * 'view_team' + 0.0027426264243661015 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "0.3630444797875242 + 0.0291631165145358 * 'supports' + 0.022631241696473473 * 'view_challenge' + 0.154588451285475 * 'view_newsfeed' + 0.015981122077575734 * 'view_team' + 0.0007791786847921713 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = medium",
+            "0.17602575948606444 + 0.019714885062439222 * 'supports' + 0.06407337645292743 * 'view_challenge' + 0.06108093854166441 * 'view_newsfeed' + 0.0024643606328049027 * 'view_team' + 0.00035205151897212903 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = medium",
+            "0.8979119623020809 + 0.0719480166854705 * 'supports' + 0.18279003262989327 * 'view_challenge' + 0.30835784167009594 * 'view_newsfeed' + 0.07326822031434299 * 'view_team' + 0.03894620298916794 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = high",
+            "0.8040639311795934 + 0.05562818552976984 * 'supports' + 0.1364888493110453 * 'view_challenge' + 0.2742241849196974 * 'view_newsfeed' + 0.07236096749552688 * 'view_team' + 0.04584530596430105 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = medium",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = high",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = medium",
+            "0.2609664596906949 + 0.029228243485357838 * 'supports' + 0.09499179132741292 * 'view_challenge' + 0.0905553615126711 * 'view_newsfeed' + 0.0036535304356697298 * 'view_team' + 0.0005219329193813894 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "1.6854702411066236 + 0.07787018565554815 * 'supports' + 0.3946817193431042 * 'view_challenge' + 0.01199766116403439 * 'view_newsfeed' + 0.4075081836555307 * 'view_team' + -0.04627012847093642 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "0.7029113643778664 + -0.0282608168522738 * 'supports' + 0.22549108661251538 * 'view_challenge' + 0.016441669364707368 * 'view_newsfeed' + 0.09667380268522217 * 'view_team' + 0.14431154916993563 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "1.4613845252297482 + 0.12011523536074016 * 'supports' + 0.22735579156902952 * 'view_challenge' + 0.48139917195624354 * 'view_newsfeed' + 0.18937910400032312 * 'view_team' + 0.029604427329462564 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.6168035318595856 + 0.044592315565552015 * 'supports' + 0.1255205185701502 * 'view_challenge' + 0.15314338990221854 * 'view_newsfeed' + 0.11471055031923966 * 'view_team' + 0.01543991056259347 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "-0.9606990143572722 + -0.08194809482050877 * 'supports' + -0.09304923238569485 * 'view_challenge' + -0.4773530474089871 * 'view_newsfeed' + -0.03467815105296454 * 'view_team' + -0.03131888504843893 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "-1.3311022044167098 + -0.12086820069247972 * 'supports' + -0.12302371296705156 * 'view_challenge' + -0.6297664042131921 * 'view_newsfeed' + -0.053970154352523086 * 'view_team' + -0.03167376953026444 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "-0.08578075035753616 + -0.025523368455556895 * 'supports' + -0.032357766708689416 * 'view_challenge' + -0.061154574494178465 * 'view_newsfeed' + -0.005396882136172065 * 'view_team' + -0.013737510344599115 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "-0.4784702982723221 + -0.05811660093248418 * 'supports' + -0.05827527687106532 * 'view_challenge' + -0.23079645919336605 * 'view_newsfeed' + -0.022675222244422644 * 'view_team' + -0.015700958084173034 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = medium",
+            "0.17602575948606444 + 0.019714885062439222 * 'supports' + 0.06407337645292743 * 'view_challenge' + 0.06108093854166441 * 'view_newsfeed' + 0.0024643606328049027 * 'view_team' + 0.00035205151897212903 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = medium",
+            "0.8599209713088213 + 0.07149212479355138 * 'supports' + 0.176901429025938 * 'view_challenge' + 0.2962007245522527 * 'view_newsfeed' + 0.07247040950348453 * 'view_team' + 0.034235320106003705 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = high",
+            "0.7079844234865131 + 0.05447523143745287 * 'supports' + 0.12159652561861783 * 'view_challenge' + 0.2434787424579119 * 'view_newsfeed' + 0.07034329783397217 * 'view_team' + 0.033931447010359085 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = medium",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = high",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = medium",
+            "0.2609664596906949 + 0.029228243485357838 * 'supports' + 0.09499179132741292 * 'view_challenge' + 0.0905553615126711 * 'view_newsfeed' + 0.0036535304356697298 * 'view_team' + 0.0005219329193813894 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "1.4619126244768361 + 0.15435907310360403 * 'supports' + 0.4045256560641711 * 'view_challenge' + 0.4885835904438766 * 'view_newsfeed' + 0.10295599553502831 * 'view_team' + 0.03860981286397416 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "0.7608690826815684 + 0.06921094312758103 * 'supports' + 0.13163338028654287 * 'view_challenge' + 0.25134196140607384 * 'view_newsfeed' + 0.09401391927817782 * 'view_team' + 0.03799300577583859 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "0.7196982842086159 + 0.06932472505106477 * 'supports' + 0.12097144945339372 * 'view_challenge' + 0.24958390786594659 * 'view_newsfeed' + 0.0936950510758339 * 'view_team' + 0.02162283342636068 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.7196982842086159 + 0.06932472505106477 * 'supports' + 0.12097144945339372 * 'view_challenge' + 0.24958390786594659 * 'view_newsfeed' + 0.0936950510758339 * 'view_team' + 0.02162283342636068 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "-0.10289461928750793 + -0.0037042062943502974 * 'supports' + -0.0165660337052888 * 'view_challenge' + -0.042804161623603315 * 'view_newsfeed' + -0.002469470862900197 * 'view_team' + -0.0011318408121625918 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "-0.10289461928750793 + -0.0037042062943502974 * 'supports' + -0.0165660337052888 * 'view_challenge' + -0.042804161623603315 * 'view_newsfeed' + -0.002469470862900197 * 'view_team' + -0.0011318408121625918 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "-0.03890653247019171 + -0.0014006351689268975 * 'supports' + -0.006263951727700851 * 'view_challenge' + -0.016185117507599732 * 'view_newsfeed' + -0.0009337567792846 * 'view_team' + -0.00042797185717210725 * 'view_friend'"
+        ],
+        [
+            "'supports' = medium and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "-0.03890653247019171 + -0.0014006351689268975 * 'supports' + -0.006263951727700851 * 'view_challenge' + -0.016185117507599732 * 'view_newsfeed' + -0.0009337567792846 * 'view_team' + -0.00042797185717210725 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "0.940815923781432 + 0.07834217527521854 * 'supports' + 0.06159166950205791 * 'view_challenge' + 0.40304788540061154 * 'view_newsfeed' + 0.04185130155188374 * 'view_team' + 0.0034439179354736915 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "0.34580463599613814 + 0.028956238389039178 * 'supports' + 0.022320924508228524 * 'view_challenge' + 0.14600300907736483 * 'view_newsfeed' + 0.015670804889330783 * 'view_team' + 0.00046886149654722174 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "0.7557340277023101 + 0.06175634899146307 * 'supports' + 0.048548751858849354 * 'view_challenge' + 0.3242303359846626 * 'view_newsfeed' + 0.03325946218582633 * 'view_team' + 0.0027426264243661015 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.3630444797875242 + 0.0291631165145358 * 'supports' + 0.022631241696473473 * 'view_challenge' + 0.154588451285475 * 'view_newsfeed' + 0.015981122077575734 * 'view_team' + 0.0007791786847921713 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "0.8313717851687814 + 0.06925831177036856 * 'supports' + 0.05436835635362296 * 'view_challenge' + 0.3557680175199466 * 'view_newsfeed' + 0.0370357594529271 * 'view_team' + 0.0028966972424104387 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "0.34580463599613814 + 0.028956238389039178 * 'supports' + 0.022320924508228524 * 'view_challenge' + 0.14600300907736483 * 'view_newsfeed' + 0.015670804889330783 * 'view_team' + 0.00046886149654722174 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "0.7557340277023101 + 0.06175634899146307 * 'supports' + 0.048548751858849354 * 'view_challenge' + 0.3242303359846626 * 'view_newsfeed' + 0.03325946218582633 * 'view_team' + 0.0027426264243661015 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = low and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "0.3630444797875242 + 0.0291631165145358 * 'supports' + 0.022631241696473473 * 'view_challenge' + 0.154588451285475 * 'view_newsfeed' + 0.015981122077575734 * 'view_team' + 0.0007791786847921713 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = medium",
+            "0.17602575948606444 + 0.019714885062439222 * 'supports' + 0.06407337645292743 * 'view_challenge' + 0.06108093854166441 * 'view_newsfeed' + 0.0024643606328049027 * 'view_team' + 0.00035205151897212903 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = medium",
+            "0.7187583412955048 + 0.06979817323339155 * 'supports' + 0.15502122137387397 * 'view_challenge' + 0.25102868294799163 * 'view_newsfeed' + 0.06950599427320488 * 'view_team' + 0.016731153984352508 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = high",
+            "0.566821793473197 + 0.052781279877293065 * 'supports' + 0.09971631796655378 * 'view_challenge' + 0.19830670085365054 * 'view_newsfeed' + 0.06737888260369254 * 'view_team' + 0.016427280888707894 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = medium",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = high",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = medium",
+            "0.21261669971859798 + 0.041315810299613294 * 'supports' + 0.07518492591346328 * 'view_challenge' + 0.07488177119440684 * 'view_newsfeed' + 0.003016054381490849 * 'view_team' + 0.0006026260338743276 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = high",
+            "0.04379950437899323 + 0.022408284421577537 * 'supports' + 0.013735466809847 * 'view_challenge' + 0.01630220441156391 * 'view_newsfeed' + 0.0006526136467363787 * 'view_team' + 0.00026499164319511784 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "0.8986410919906456 + 0.49237165563187263 * 'supports' + 0.22137006330021664 * 'view_challenge' + 0.2767384503540443 * 'view_newsfeed' + 0.06365750878478099 * 'view_team' + 0.001235814725735241 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "-0.2858291748878534 + 0.00343640911405782 * 'supports' + 0.014648129696863937 * 'view_challenge' + -0.20840463160474632 * 'view_newsfeed' + 0.02838330284741597 * 'view_team' + -0.006703935725160037 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "0.4733382677946653 + 0.026250840904407234 * 'supports' + 0.061364020319935444 * 'view_challenge' + 0.1345949355965292 * 'view_newsfeed' + 0.0638972293060675 * 'view_team' + 0.0029271783787153324 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.0806487198798791 + -0.006342391572519979 * 'supports' + 0.03544651015755957 * 'view_challenge' + -0.03504694910265832 * 'view_newsfeed' + 0.046618889197816954 * 'view_team' + 0.0009637306391413955 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = low and 'view_friend' = medium",
+            "0.017493487177581805 + 0.017493487177581805 * 'supports' + 0.00440835876875062 * 'view_challenge' + 0.00704987533256546 * 'view_newsfeed' + 0.0002798957948413087 * 'view_team' + 0.0001924283589534 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = low and 'view_friend' = high",
+            "0.017493487177581805 + 0.017493487177581805 * 'supports' + 0.00440835876875062 * 'view_challenge' + 0.00704987533256546 * 'view_newsfeed' + 0.0002798957948413087 * 'view_team' + 0.0001924283589534 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "-0.41762757309953324 + -0.043293455180100984 * 'supports' + -0.0642454950358814 * 'view_challenge' + -0.21637927894379738 * 'view_newsfeed' + -0.020437704999496202 * 'view_team' + -0.021547416898935266 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "-0.9031947222721766 + -0.08359552856143038 * 'supports' + -0.09629292688127584 * 'view_challenge' + -0.4261442873863791 * 'view_newsfeed' + -0.041802659563092495 * 'view_team' + -0.023975252644798502 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "-0.08578075035753616 + -0.025523368455556895 * 'supports' + -0.032357766708689416 * 'view_challenge' + -0.061154574494178465 * 'view_newsfeed' + -0.005396882136172065 * 'view_team' + -0.013737510344599115 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = medium and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "-0.4784702982723221 + -0.05811660093248418 * 'supports' + -0.05827527687106532 * 'view_challenge' + -0.23079645919336605 * 'view_newsfeed' + -0.022675222244422644 * 'view_team' + -0.015700958084173034 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = medium",
+            "0.17602575948606444 + 0.019714885062439222 * 'supports' + 0.06407337645292743 * 'view_challenge' + 0.06108093854166441 * 'view_newsfeed' + 0.0024643606328049027 * 'view_team' + 0.00035205151897212903 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = low and 'view_friend' = high",
+            "0.024089211663756396 + 0.0026979917063407193 * 'supports' + 0.00876847304560733 * 'view_challenge' + 0.008358956447323476 * 'view_newsfeed' + 0.0003372489632925899 * 'view_team' + 4.817842332751277e-05 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = medium",
+            "0.7187583412955048 + 0.06979817323339155 * 'supports' + 0.15502122137387397 * 'view_challenge' + 0.25102868294799163 * 'view_newsfeed' + 0.06950599427320488 * 'view_team' + 0.016731153984352508 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = medium and 'view_friend' = high",
+            "0.566821793473197 + 0.052781279877293065 * 'supports' + 0.09971631796655378 * 'view_challenge' + 0.19830670085365054 * 'view_newsfeed' + 0.06737888260369254 * 'view_team' + 0.016427280888707894 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = medium",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = low and 'view_team' = high and 'view_friend' = high",
+            "0.5411155970329404 + 0.050063884353634354 * 'supports' + 0.09069721228058898 * 'view_challenge' + 0.18943030927784715 * 'view_newsfeed' + 0.06700767696009347 * 'view_team' + 0.016178596353094377 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = medium",
+            "0.21261669971859798 + 0.041315810299613294 * 'supports' + 0.07518492591346328 * 'view_challenge' + 0.07488177119440684 * 'view_newsfeed' + 0.003016054381490849 * 'view_team' + 0.0006026260338743276 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = low and 'view_friend' = high",
+            "0.04379950437899323 + 0.022408284421577537 * 'supports' + 0.013735466809847 * 'view_challenge' + 0.01630220441156391 * 'view_newsfeed' + 0.0006526136467363787 * 'view_team' + 0.00026499164319511784 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = medium",
+            "0.8563715315208493 + 0.2503899290069494 * 'supports' + 0.19708826947905922 * 'view_challenge' + 0.3036038503038524 * 'view_newsfeed' + 0.0730561442916859 * 'view_team' + 0.018381027987083798 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = medium and 'view_friend' = high",
+            "0.5578241002709257 + 0.10175216721859474 * 'supports' + 0.10294679092604271 * 'view_challenge' + 0.19274299844915094 * 'view_newsfeed' + 0.0686170197823663 * 'view_team' + 0.016616361001391085 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = medium",
+            "0.5202124856820096 + 0.05037357419103724 * 'supports' + 0.08745783530092399 * 'view_challenge' + 0.17956439258310802 * 'view_newsfeed' + 0.06836035466295501 * 'view_team' + 0.016236716866142326 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = medium and 'view_team' = high and 'view_friend' = high",
+            "0.5202124856820096 + 0.05037357419103724 * 'supports' + 0.08745783530092399 * 'view_challenge' + 0.17956439258310802 * 'view_newsfeed' + 0.06836035466295501 * 'view_team' + 0.016236716866142326 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = low and 'view_friend' = medium",
+            "0.017493487177581805 + 0.017493487177581805 * 'supports' + 0.00440835876875062 * 'view_challenge' + 0.00704987533256546 * 'view_newsfeed' + 0.0002798957948413087 * 'view_team' + 0.0001924283589534 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = low and 'view_friend' = high",
+            "0.017493487177581805 + 0.017493487177581805 * 'supports' + 0.00440835876875062 * 'view_challenge' + 0.00704987533256546 * 'view_newsfeed' + 0.0002798957948413087 * 'view_team' + 0.0001924283589534 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = medium",
+            "-0.059541447113397816 + 0.01472022954310654 * 'supports' + -0.007994265652097043 * 'view_challenge' + -0.024996657332481964 * 'view_newsfeed' + -0.0015689426281421956 * 'view_team' + -0.0006549559182473766 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = medium and 'view_friend' = high",
+            "-0.059541447113397816 + 0.01472022954310654 * 'supports' + -0.007994265652097043 * 'view_challenge' + -0.024996657332481964 * 'view_newsfeed' + -0.0015689426281421956 * 'view_team' + -0.0006549559182473766 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = medium",
+            "-0.03890653247019171 + -0.0014006351689268975 * 'supports' + -0.006263951727700851 * 'view_challenge' + -0.016185117507599732 * 'view_newsfeed' + -0.0009337567792846 * 'view_team' + -0.00042797185717210725 * 'view_friend'"
+        ],
+        [
+            "'supports' = high and 'view_challenge' = high and 'view_newsfeed' = high and 'view_team' = high and 'view_friend' = high",
+            "-0.03890653247019171 + -0.0014006351689268975 * 'supports' + -0.006263951727700851 * 'view_challenge' + -0.016185117507599732 * 'view_newsfeed' + -0.0009337567792846 * 'view_team' + -0.00042797185717210725 * 'view_friend'"
+        ]
+    ],
+    "socialiser": [
+        [
+            "'supports' = medium and 'reactions' = medium and 'chats' = medium",
+            "0.23118467365836942 + 0.025892683449737004 * 'supports' + 0.06426933927702669 * 'reactions' + 0.19257683315742163 * 'chats'"
+        ],
+        [
+            "'supports' = medium and 'reactions' = medium and 'chats' = high",
+            "0.9994930202475605 + 0.11194321826772677 * 'supports' + 0.2778590596288219 * 'reactions' + 0.8325776858662179 * 'chats'"
+        ],
+        [
+            "'supports' = medium and 'reactions' = high and 'chats' = medium",
+            "0.2311846736583693 + 0.02589268344973737 * 'supports' + 0.06426933927702667 * 'reactions' + 0.19257683315742163 * 'chats'"
+        ],
+        [
+            "'supports' = medium and 'reactions' = high and 'chats' = high",
+            "0.3848463429762076 + 0.04310279041333525 * 'supports' + 0.10698728334738572 * 'reactions' + 0.3205770036991809 * 'chats'"
+        ],
+        [
+            "'supports' = high and 'reactions' = medium and 'chats' = medium",
+            "0.15504600868106203 + 0.017365152972278943 * 'supports' + 0.04310279041333525 * 'reactions' + 0.12915332523132464 * 'chats'"
+        ],
+        [
+            "'supports' = high and 'reactions' = medium and 'chats' = high",
+            "0.32515694397236267 + 0.18747608826357964 * 'supports' + 0.061985104230669615 * 'reactions' + 0.2992642605226252 * 'chats'"
+        ],
+        [
+            "'supports' = high and 'reactions' = high and 'chats' = medium",
+            "0.15504600868106203 + 0.017365152972278943 * 'supports' + 0.04310279041333525 * 'reactions' + 0.12915332523132464 * 'chats'"
+        ],
+        [
+            "'supports' = high and 'reactions' = high and 'chats' = high",
+            "0.17628595673205683 + 0.03860510102327374 * 'supports' + 0.045460424646995665 * 'reactions' + 0.15039327328231944 * 'chats'"
+        ]
+    ],
+    "free_spirit": [
+        [
+            "'activities' = low and 'unique_activities' = low",
+            "0.7450114080032657 + 0.03202745105228888 * 'activities' + 6.497504797608766 * 'unique_activities'"
+        ],
+        [
+            "'activities' = low and 'unique_activities' = medium",
+            "0.6726290310690892 + 137.62470856252173 * 'activities' + -5.2776055077920905 * 'unique_activities'"
+        ],
+        [
+            "'activities' = medium and 'unique_activities' = low",
+            "0.8103851876424213 + -0.4712090450597575 * 'activities' + 5.1077370327926985 * 'unique_activities'"
+        ],
+        [
+            "'activities' = medium and 'unique_activities' = medium",
+            "-1.4775295037225007 + -8.747165456772791 * 'activities' + 8.949094515421748 * 'unique_activities'"
+        ],
+        [
+            "'activities' = medium and 'unique_activities' = high",
+            "-9.499762784833777 + 9.18145953143921 * 'activities' + 11.0262648770465 * 'unique_activities'"
+        ],
+        [
+            "'activities' = high and 'unique_activities' = medium",
+            "10.704196831376755 + -9.439164404074486 * 'activities' + -9.948148972420682 * 'unique_activities'"
+        ],
+        [
+            "'activities' = high and 'unique_activities' = high",
+            "8.801484354419536 + 11.032666140322643 * 'activities' + -18.729774143198853 * 'unique_activities'"
+        ]
+    ],
+    "achiever": [
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = low and 'view_activities' = medium",
+            "0.6061046585861506 + 0.0025946803466201165 * 'points' + 0.002797358840139281 * 'activities' + 0.0033126474456970506 * 'view_challenge' + 0.32110462414116575 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = low and 'view_activities' = high",
+            "0.6941586578078671 + 0.002232846491958755 * 'points' + 0.001657839098941679 * 'activities' + -0.004307339136356083 * 'view_challenge' + 0.41705010565202094 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = medium and 'view_activities' = low",
+            "0.024367158631470348 + 0.002434430207946007 * 'points' + 0.0008602110532411873 * 'activities' + 0.02370568110960749 * 'view_challenge' + 0.011508065335430624 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = medium and 'view_activities' = medium",
+            "0.5293765319167584 + 0.023705653409274982 * 'points' + 0.0096095208493776 * 'activities' + 0.2534927399536886 * 'view_challenge' + 0.20276595660349117 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = medium and 'view_activities' = high",
+            "-0.025942742468578334 + -0.0013676605094324864 * 'points' + -0.0005024651019425739 * 'activities' + -0.004307339136477677 * 'view_challenge' + -0.015010734513790043 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = high and 'view_activities' = low",
+            "0.09695449250578783 + 0.0026521922096196544 * 'points' + 0.0010779730548844792 * 'activities' + 0.03335979651487103 * 'view_challenge' + 0.03328426549771316 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = low and 'view_challenge' = high and 'view_activities' = medium",
+            "0.8875490585161696 + 0.012139327001743944 * 'points' + 0.005821540450946752 * 'activities' + 0.2001752499430507 * 'view_challenge' + 0.28311214835698306 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = low and 'view_activities' = medium",
+            "0.26581125344550616 + 0.0006572787553689582 * 'points' + 0.0013635931349538603 * 'activities' + 0.0010712690733459679 * 'view_challenge' + 0.12961006395337504 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = low and 'view_activities' = high",
+            "0.12426893213719326 + -0.0006166021364052525 * 'points' + -5.183007812929307e-05 * 'activities' + -0.004307339136370006 * 'view_challenge' + 0.07511627024967318 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = low",
+            "0.02436715863151806 + 0.0024344302080024135 * 'points' + 0.00086021105326384 * 'activities' + 0.02370568110959339 * 'view_challenge' + 0.011508065335424977 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = medium",
+            "1.1302152752876142 + 0.014939434288436887 * 'points' + 0.007889125295831655 * 'activities' + 0.2418085864469478 * 'view_challenge' + 0.36422871676859314 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = high",
+            "-0.0259427424685878 + -0.0013676605094341578 * 'points' + -0.0005024651019466361 * 'activities' + -0.004307339136370006 * 'view_challenge' + -0.015010734513795435 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = high and 'view_activities' = low",
+            "0.09695449250578211 + 0.002652192209625202 * 'points' + 0.0010779730548866329 * 'activities' + 0.033359796514870504 * 'view_challenge' + 0.03328426549770419 * 'view_activities'"
+        ],
+        [
+            "'points' = low and 'activities' = medium and 'view_challenge' = high and 'view_activities' = medium",
+            "0.8875490585161705 + 0.012139327001749717 * 'points' + 0.005821540450948914 * 'activities' + 0.20017524994306268 * 'view_challenge' + 0.28311214835698506 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = low and 'view_activities' = medium",
+            "-0.17226976789187942 + -0.010797279259348702 * 'points' + -0.005209326373975795 * 'activities' + -0.04006700284315434 * 'view_challenge' + -0.050253120130742124 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = low and 'view_activities' = high",
+            "1.723263902884523 + 0.10694501702826836 * 'points' + 0.03186885911890146 * 'activities' + 0.05209977529647432 * 'view_challenge' + 1.4346460424979028 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = medium and 'view_activities' = low",
+            "0.02436715863151806 + 0.0024344302080024135 * 'points' + 0.00086021105326384 * 'activities' + 0.02370568110959339 * 'view_challenge' + 0.011508065335424977 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = medium and 'view_activities' = medium",
+            "0.8354719591646886 + -0.005944750696388279 * 'points' + -0.004962956371245011 * 'activities' + 0.3887604136187863 * 'view_challenge' + 0.06399740113426455 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = medium and 'view_activities' = high",
+            "1.0521733313084236 + 0.09592040432789006 * 'points' + 0.025594943047229965 * 'activities' + 0.018440684876622593 * 'view_challenge' + 1.097179558213477 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = high and 'view_activities' = low",
+            "0.09695449250578211 + 0.002652192209625202 * 'points' + 0.0010779730548866329 * 'activities' + 0.033359796514870504 * 'view_challenge' + 0.03328426549770419 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = low and 'view_challenge' = high and 'view_activities' = medium",
+            "0.8875490585161705 + 0.012139327001749717 * 'points' + 0.005821540450948914 * 'activities' + 0.20017524994306268 * 'view_challenge' + 0.28311214835698506 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = low and 'view_activities' = medium",
+            "-0.5342446190432888 + -1.5192159603142628 * 'points' + 2.6150729215309454 * 'activities' + -0.12678985545022492 * 'view_challenge' + 3.026307133340193 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = low and 'view_activities' = high",
+            "5.278492313315601 + -8.039795790787178 * 'points' + 1.5442368621286864 * 'activities' + -3.068767891071137 * 'view_challenge' + -7.804420715872418 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = low",
+            "0.9159793182527909 + 0.9989876854226836 * 'points' + 1.3262489699482263 * 'activities' + 1.653056414700644 * 'view_challenge' + 0.08157806256662692 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = medium",
+            "2.7627700231062446 + -3.847788198863661 * 'points' + 2.8668016906012994 * 'activities' + -6.953249079515857 * 'view_challenge' + -3.6040073134260204 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = high",
+            "0.1969188132663504 + -2.3017854869752647 * 'points' + 3.4849046267692647 * 'activities' + 5.68703031594881 * 'view_challenge' + 2.3361620608690594 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = high and 'view_activities' = low",
+            "-0.4123040958816997 + 0.6100943394091607 * 'points' + 0.7348214209649033 * 'activities' + 1.4311991729047095 * 'view_challenge' + -0.14892383873063686 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = high and 'view_activities' = medium",
+            "1.5101568596548023 + 2.636426099122953 * 'points' + -0.679816203474136 * 'activities' + 4.1087701509883665 * 'view_challenge' + 2.0235755255948273 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = medium and 'view_challenge' = high and 'view_activities' = high",
+            "-1.694411441213909 + 0.09107478366409483 * 'points' + -1.3788652147730938 * 'activities' + -0.5449496015589885 * 'view_challenge' + 1.9403913546363154 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = low and 'view_activities' = medium",
+            "-4.861536073338733 + -0.6208653881987964 * 'points' + 3.3495638344471876 * 'activities' + -0.965365138680931 * 'view_challenge' + -2.2021449133748074 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = low and 'view_activities' = high",
+            "-1.694634997297225 + -0.2661724676821462 * 'points' + 3.9512750388950773 * 'activities' + -0.9653651386809297 * 'view_challenge' + -0.9828879990988213 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = medium and 'view_activities' = low",
+            "-0.29035161868425585 + 1.1118259974537112 * 'points' + 1.1510828641805526 * 'activities' + -0.5637787946989588 * 'view_challenge' + -0.3438212587590126 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = medium and 'view_activities' = medium",
+            "0.9945348381147863 + -2.1577486005139423 * 'points' + -6.362631857029208 * 'activities' + -2.553136202716977 * 'view_challenge' + 1.63677066728678 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = medium and 'view_activities' = high",
+            "0.8562183942734487 + 5.514056956233807 * 'points' + 6.18744148576029 * 'activities' + -0.8181172766541374 * 'view_challenge' + 3.195955605542607 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = high and 'view_activities' = low",
+            "-1.8960237417708488 + 0.7746348516055266 * 'points' + 0.7882009643629813 * 'activities' + -0.8319260392544159 * 'view_challenge' + -0.7083088306996652 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = high and 'view_activities' = medium",
+            "-2.917120227646873 + 1.2882803510665592 * 'points' + 0.04921053753001736 * 'activities' + -1.0080360441743164 * 'view_challenge' + 0.14898698297464463 * 'view_activities'"
+        ],
+        [
+            "'points' = medium and 'activities' = high and 'view_challenge' = high and 'view_activities' = high",
+            "-6.401112566576954 + -0.756620896827155 * 'points' + -2.254391628697407 * 'activities' + -1.1128295980885103 * 'view_challenge' + -0.8170958588551867 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = low and 'view_challenge' = low and 'view_activities' = high",
+            "0.42092808878207566 + 0.024834757238142324 * 'points' + 0.007997633686859424 * 'activities' + 0.02020454826153953 * 'view_challenge' + 0.31990534747437804 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = low and 'view_challenge' = medium and 'view_activities' = high",
+            "0.42092808878207566 + 0.024834757238142324 * 'points' + 0.007997633686859424 * 'activities' + 0.02020454826153953 * 'view_challenge' + 0.31990534747437804 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = low and 'view_activities' = medium",
+            "11.42619134432164 + -6.204089736593129 * 'points' + -0.03133834161553306 * 'activities' + 0.9423006437555528 * 'view_challenge' + -0.8701463242206078 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = low and 'view_activities' = high",
+            "9.44723109147497 + -6.82482494325313 * 'points' + -0.5585158081118884 * 'activities' + 0.9193072018677744 * 'view_challenge' + -1.5821929636465883 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = low",
+            "-0.11845379865555894 + -0.21884809970523778 * 'points' + 0.25067743746626925 * 'activities' + 0.3434881674779824 * 'view_challenge' + -0.08708714212803503 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = medium",
+            "-1.327971947774028 + -5.383040067703066 * 'points' + 2.5856001800238033 * 'activities' + 0.44077689854777935 * 'view_challenge' + -1.0721334146128738 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = medium and 'view_activities' = high",
+            "-5.458423137544223 + 0.7807902673417182 * 'points' + 6.765708369879982 * 'activities' + 1.443098722515764 * 'view_challenge' + -1.715763405013306 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = high and 'view_activities' = low",
+            "-0.9059760848866869 + -0.40292947752214525 * 'points' + 0.01851043049481338 * 'activities' + 0.21245147638785555 * 'view_challenge' + -0.2529073719197874 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = high and 'view_activities' = medium",
+            "7.716600659499285 + 1.4440760077341945 * 'points' + 0.7076682309383777 * 'activities' + 1.4547421249454078 * 'view_challenge' + 5.229925422596574 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = medium and 'view_challenge' = high and 'view_activities' = high",
+            "5.845915141556722 + 0.6976464069991117 * 'points' + -0.4806176877208611 * 'activities' + 0.6912049973416295 * 'view_challenge' + 4.65709173101099 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = low and 'view_activities' = medium",
+            "-2.9816551722611386 + -1.6515501438365874 * 'points' + 2.508140421961517 * 'activities' + -0.8887545609293501 * 'view_challenge' + -2.536155241563426 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = low and 'view_activities' = high",
+            "-2.9816551722611457 + -1.6515501438365874 * 'points' + 2.5081404219615195 * 'activities' + -0.8887545609293501 * 'view_challenge' + -2.536155241563425 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = medium and 'view_activities' = low",
+            "1.506773665493613 + 0.07486154444534221 * 'points' + 0.40139436097238995 * 'activities' + 0.038038007614524805 * 'view_challenge' + 0.31899786345540937 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = medium and 'view_activities' = medium",
+            "6.282177033662053 + -1.4881341558688495 * 'points' + -2.6451738612684386 * 'activities' + -1.0204443986906004 * 'view_challenge' + 2.9987369044585748 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = medium and 'view_activities' = high",
+            "1.6157612777681098 + 4.236286249379244 * 'points' + 4.780490379516172 * 'activities' + -0.10103740779919113 * 'view_challenge' + 2.4468295530175554 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = high and 'view_activities' = low",
+            "0.23972066879152898 + -0.19121958486209323 * 'points' + 0.11504038371772185 * 'activities' + -0.1735598428347216 * 'view_challenge' + 0.031376833204037835 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = high and 'view_activities' = medium",
+            "-0.6800234947344101 + -0.8149822565830629 * 'points' + -1.6001470680029364 * 'activities' + -0.5858327547259414 * 'view_challenge' + 1.255369436411785 * 'view_activities'"
+        ],
+        [
+            "'points' = high and 'activities' = high and 'view_challenge' = high and 'view_activities' = high",
+            "-2.3475094583277283 + -0.42422544195072165 * 'points' + -1.8368705085477424 * 'activities' + -0.47236030698514087 * 'view_challenge' + 0.7597557502537386 * 'view_activities'"
+        ]
+    ],
+    "disruptor": [
+        [
+            "'average_activities_per_day' = low",
+            "0.5325147337584675 + 19.513588132976203 * 'average_activities_per_day'"
+        ],
+        [
+            "'average_activities_per_day' = medium",
+            "0.8853214485803438 + -6.982882730879332 * 'average_activities_per_day'"
+        ],
+        [
+            "'average_activities_per_day' = high",
+            "6.5678496126418615 + -5.941165413964104 * 'average_activities_per_day'"
+        ]
+    ],
+    "player": [
+        [
+            "'goal_closeness' = medium and 'view_challenge' = low",
+            "0.2732613680546656 + 0.541376013180006 * 'goal_closeness' + 22.31978037257798 * 'view_challenge'"
+        ],
+        [
+            "'goal_closeness' = medium and 'view_challenge' = medium",
+            "1.0299941042410623 + -4.329083779284311 * 'goal_closeness' + -2.9683600164724595 * 'view_challenge'"
+        ],
+        [
+            "'goal_closeness' = medium and 'view_challenge' = high",
+            "4.95214879910079 + -4.0451223784560355 * 'goal_closeness' + -11.439348447986902 * 'view_challenge'"
+        ],
+        [
+            "'goal_closeness' = high and 'view_challenge' = low",
+            "-0.7931109814342641 + 3.8724353046355926 * 'goal_closeness' + -4.3313042709522165 * 'view_challenge'"
+        ],
+        [
+            "'goal_closeness' = high and 'view_challenge' = medium",
+            "4.053686978536259 + -5.150278453038958 * 'goal_closeness' + 14.871692848987422 * 'view_challenge'"
+        ],
+        [
+            "'goal_closeness' = high and 'view_challenge' = high",
+            "-2.2157011724033246 + -5.516844557358041 * 'goal_closeness' + 15.289629108748002 * 'view_challenge'"
+        ]
+    ]
+}

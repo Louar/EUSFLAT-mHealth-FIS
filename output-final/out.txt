@@ -1,0 +1,1280 @@
+% **************
+% **************
+MEMBERSHIP FUNCTIONS
+{
+    "points": [
+        0.0,
+        0.0235,
+        1.0
+    ],
+    "goal_closeness": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "activities": [
+        0.0,
+        0.023,
+        1.0
+    ],
+    "unique_activities": [
+        0.0,
+        0.3,
+        1.0
+    ],
+    "average_activities_per_day": [
+        0.0,
+        0.0245,
+        1.0
+    ],
+    "supports": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "reactions": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "chats": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "view_challenge": [
+        0.0,
+        0.0935,
+        0.667
+    ],
+    "view_activities": [
+        0.0,
+        0.33299999999999996,
+        0.76
+    ],
+    "view_newsfeed": [
+        0.0,
+        0.38649999999999995,
+        1.0
+    ],
+    "view_team": [
+        0.0,
+        0.0165,
+        0.429
+    ],
+    "view_profile": [
+        0.0,
+        0.016,
+        0.4
+    ],
+    "view_friend": [
+        0.0,
+        0.0,
+        0.14300000000000002
+    ]
+}
+% **************
+% **************
+ITERATION 1
+Random state parameter = 2
+
+
+% **************
+PARTITION 1
+Size of train set = 36
+Size of test set = 10
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 90
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 2
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.772929763811493,
+    "socialiser": 7.2547180523127635,
+    "free_spirit": 0.7295625873030445,
+    "achiever": 0.5668922278907389,
+    "disruptor": 0.4201208714949674,
+    "player": 1.8933721613843826
+}
+Total Sum of Squared Errors = 18.63759566419739
+Accuracy first actual vs first predicted (> 0.167?) = 0.5
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6
+
+
+% **************
+PARTITION 2
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 58
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.7154207414060085,
+    "socialiser": 7.977962000000001,
+    "free_spirit": 0.4709502283564111,
+    "achiever": 7.170152729778559,
+    "disruptor": 0.24739163826509564,
+    "player": 2.4986273293893717
+}
+Total Sum of Squared Errors = 26.080504667195445
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.5555555555555556
+
+
+% **************
+PARTITION 3
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 80
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.422505092557545,
+    "socialiser": 6.569879776133953,
+    "free_spirit": 35.073975138129484,
+    "achiever": 0.745221438658207,
+    "disruptor": 0.24384939082230211,
+    "player": 20.414770966583493
+}
+Total Sum of Squared Errors = 68.47020180288499
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.8888888888888888
+
+
+% **************
+PARTITION 4
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 60
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 4.5681437314623405,
+    "socialiser": 7.30908,
+    "free_spirit": 1.4877184804421113,
+    "achiever": 0.5732354896442304,
+    "disruptor": 9.107112312293602,
+    "player": 1.7975886440805509
+}
+Total Sum of Squared Errors = 24.842878657922835
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.3333333333333333
+
+
+% **************
+PARTITION 5
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 7
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.475533550937309,
+    "socialiser": 6.324775000000001,
+    "free_spirit": 0.8653617609358276,
+    "achiever": 0.37510261834543157,
+    "disruptor": 0.13278101926014066,
+    "player": 2.731610844613632
+}
+Total Sum of Squared Errors = 17.905164794092343
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.7777777777777778
+
+
+% **************
+% **************
+ITERATION 2
+Random state parameter = 42
+
+
+% **************
+PARTITION 1
+Size of train set = 36
+Size of test set = 10
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 84
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 7
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.561043124182126,
+    "socialiser": 7.8688530000000005,
+    "free_spirit": 72.59388515446847,
+    "achiever": 6.577818082861252,
+    "disruptor": 0.07863669217844045,
+    "player": 2.4619733437500124
+}
+Total Sum of Squared Errors = 95.1422093974403
+Accuracy first actual vs first predicted (> 0.167?) = 0.0
+Accuracy top three actual vs first predicted (> 0.5?) = 0.8
+
+
+% **************
+PARTITION 2
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 92
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.367648485919779,
+    "socialiser": 6.1298477761339525,
+    "free_spirit": 0.867065225411981,
+    "achiever": 0.6990611973658295,
+    "disruptor": 0.36878349634218205,
+    "player": 2.7545899051131695
+}
+Total Sum of Squared Errors = 18.186996086286893
+Accuracy first actual vs first predicted (> 0.167?) = 0.4444444444444444
+Accuracy top three actual vs first predicted (> 0.5?) = 0.7777777777777778
+
+
+% **************
+PARTITION 3
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 90
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 2
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 62
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.627615087488839,
+    "socialiser": 6.933038052312764,
+    "free_spirit": 0.4466267037394951,
+    "achiever": 0.5679789726210857,
+    "disruptor": 0.40458242234773134,
+    "player": 2.6024517914394063
+}
+Total Sum of Squared Errors = 17.58229302994932
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.5555555555555556
+
+
+% **************
+PARTITION 4
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 58
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.5921599033729255,
+    "socialiser": 6.670563999999999,
+    "free_spirit": 0.176961423443233,
+    "achiever": 1.7748038472506873,
+    "disruptor": 6.412838849548012,
+    "player": 2.8211965182242493
+}
+Total Sum of Squared Errors = 24.448524541839106
+Accuracy first actual vs first predicted (> 0.167?) = 0.3333333333333333
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+PARTITION 5
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 63
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.41492108376479,
+    "socialiser": 7.834111999999999,
+    "free_spirit": 1.0988668962254597,
+    "achiever": 0.9606987363683965,
+    "disruptor": 0.2097393005331862,
+    "player": 6.933687638685472
+}
+Total Sum of Squared Errors = 23.452025655577305
+Accuracy first actual vs first predicted (> 0.167?) = 0.0
+Accuracy top three actual vs first predicted (> 0.5?) = 0.4444444444444444
+
+
+% **************
+% **************
+ITERATION 3
+Random state parameter = 84
+
+
+% **************
+PARTITION 1
+Size of train set = 36
+Size of test set = 10
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 92
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.633254307460477,
+    "socialiser": 7.214154776133953,
+    "free_spirit": 10.970726161889008,
+    "achiever": 0.823326167268756,
+    "disruptor": 0.3705171765160239,
+    "player": 3.4947435600858574
+}
+Total Sum of Squared Errors = 29.50672214935408
+Accuracy first actual vs first predicted (> 0.167?) = 0.0
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6
+
+
+% **************
+PARTITION 2
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 84
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 58
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.409793457889505,
+    "socialiser": 7.097695,
+    "free_spirit": 0.05186378232148798,
+    "achiever": 1.5640176662365088,
+    "disruptor": 0.37607654851554895,
+    "player": 1.8779403931409797
+}
+Total Sum of Squared Errors = 16.37738684810403
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+PARTITION 3
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 63
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 8.614417999999999,
+    "socialiser": 7.145971,
+    "free_spirit": 1.370373966904882,
+    "achiever": 1.7770228387327212,
+    "disruptor": 0.30235569129609585,
+    "player": 1.2687753034212153
+}
+Total Sum of Squared Errors = 20.478916800354913
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.5555555555555556
+
+
+% **************
+PARTITION 4
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 90
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 2
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.851854924464543,
+    "socialiser": 6.760171052312763,
+    "free_spirit": 5.68139553406064,
+    "achiever": 3.346712683308268,
+    "disruptor": 0.28926336964875177,
+    "player": 108.60224563977754
+}
+Total Sum of Squared Errors = 130.53164320357251
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.5555555555555556
+
+
+% **************
+PARTITION 5
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 7
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 62
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.618883580320219,
+    "socialiser": 7.218423000000001,
+    "free_spirit": 0.3381506769640348,
+    "achiever": 0.9288385713204442,
+    "disruptor": 2.5216842916790414,
+    "player": 2.5229476341504413
+}
+Total Sum of Squared Errors = 19.14892775443418
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+% **************
+ITERATION 4
+Random state parameter = 53
+
+
+% **************
+PARTITION 1
+Size of train set = 36
+Size of test set = 10
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 63
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 8.279440363565335,
+    "socialiser": 8.286579,
+    "free_spirit": 1.2548847626592847,
+    "achiever": 0.5002191957647011,
+    "disruptor": 0.40297435563043704,
+    "player": 5.031630266072364
+}
+Total Sum of Squared Errors = 23.755727943692122
+Accuracy first actual vs first predicted (> 0.167?) = 0.2
+Accuracy top three actual vs first predicted (> 0.5?) = 0.7
+
+
+% **************
+PARTITION 2
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 90
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 2
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 4.139284245399888,
+    "socialiser": 6.225352052312763,
+    "free_spirit": 9.126663035988717,
+    "achiever": 0.861165657747299,
+    "disruptor": 0.13128805932818843,
+    "player": 8.907881031296954
+}
+Total Sum of Squared Errors = 29.391634082073807
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+PARTITION 3
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.5152377414060085,
+    "socialiser": 6.812711,
+    "free_spirit": 0.412875961579672,
+    "achiever": 0.4781464601356575,
+    "disruptor": 0.7688581075269981,
+    "player": 2.278536728813161
+}
+Total Sum of Squared Errors = 18.2663659994615
+Accuracy first actual vs first predicted (> 0.167?) = 0.4444444444444444
+Accuracy top three actual vs first predicted (> 0.5?) = 0.5555555555555556
+
+
+% **************
+PARTITION 4
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 84
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 7
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 55
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.016195495219926,
+    "socialiser": 7.315301000000002,
+    "free_spirit": 0.5105934414950444,
+    "achiever": 5.465872094768359,
+    "disruptor": 0.2964185876000542,
+    "player": 3.0554293398902472
+}
+Total Sum of Squared Errors = 21.659809958973632
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.7777777777777778
+
+
+% **************
+PARTITION 5
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 92
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.331380485919774,
+    "socialiser": 6.796471776133953,
+    "free_spirit": 0.13386728652163227,
+    "achiever": 3.246409731864133,
+    "disruptor": 0.2543387550606708,
+    "player": 3.3854052406882422
+}
+Total Sum of Squared Errors = 21.147873276188406
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.4444444444444444
+
+
+% **************
+% **************
+ITERATION 5
+Random state parameter = 50
+
+
+% **************
+PARTITION 1
+Size of train set = 36
+Size of test set = 10
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 72
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 2
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 63
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 7.331157649262361,
+    "socialiser": 7.6978230523127635,
+    "free_spirit": 7.036758362029026,
+    "achiever": 9.96687815801303,
+    "disruptor": 0.27305433204083046,
+    "player": 10.534970696320556
+}
+Total Sum of Squared Errors = 42.840642249978565
+Accuracy first actual vs first predicted (> 0.167?) = 0.2
+Accuracy top three actual vs first predicted (> 0.5?) = 0.4
+
+
+% **************
+PARTITION 2
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.765033912534704,
+    "socialiser": 7.768495000000001,
+    "free_spirit": 0.13787265705816967,
+    "achiever": 0.6960044632719373,
+    "disruptor": 0.25784449044792956,
+    "player": 2.7255219881059185
+}
+Total Sum of Squared Errors = 18.350772511418658
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+PARTITION 3
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 62
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 5.6472046043948065,
+    "socialiser": 7.182764,
+    "free_spirit": 2.345949065301004,
+    "achiever": 1.510010348436533,
+    "disruptor": 0.15552958499043723,
+    "player": 2.6461699809664583
+}
+Total Sum of Squared Errors = 19.48762758408924
+Accuracy first actual vs first predicted (> 0.167?) = 0.2222222222222222
+Accuracy top three actual vs first predicted (> 0.5?) = 0.6666666666666666
+
+
+% **************
+PARTITION 4
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 96
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 8
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 58
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.784370914023311,
+    "socialiser": 6.382200999999999,
+    "free_spirit": 0.15576413212257945,
+    "achiever": 0.9091433540427951,
+    "disruptor": 0.46297155974147236,
+    "player": 3.5519338039785797
+}
+Total Sum of Squared Errors = 18.246384763908736
+Accuracy first actual vs first predicted (> 0.167?) = 0.1111111111111111
+Accuracy top three actual vs first predicted (> 0.5?) = 0.4444444444444444
+
+
+% **************
+PARTITION 5
+Size of train set = 37
+Size of test set = 9
+
+{
+    "philanthropist": {
+        "nrOfPotentialRules": 108,
+        "nrOfRules": 92
+    },
+    "socialiser": {
+        "nrOfPotentialRules": 8,
+        "nrOfRules": 8
+    },
+    "free_spirit": {
+        "nrOfPotentialRules": 9,
+        "nrOfRules": 7
+    },
+    "achiever": {
+        "nrOfPotentialRules": 81,
+        "nrOfRules": 65
+    },
+    "disruptor": {
+        "nrOfPotentialRules": 3,
+        "nrOfRules": 3
+    },
+    "player": {
+        "nrOfPotentialRules": 6,
+        "nrOfRules": 6
+    }
+}
+
+PERFORMANCE OF GLOBALLY OPTIMIZED RULES
+Sum of Squared Errors per outcome class = 
+{
+    "philanthropist": 6.189015685016678,
+    "socialiser": 6.405131776133953,
+    "free_spirit": 2.063134346205847,
+    "achiever": 3.0865331418985575,
+    "disruptor": 4.68459038387205,
+    "player": 3.0427497433887036
+}
+Total Sum of Squared Errors = 25.471155076515785
+Accuracy first actual vs first predicted (> 0.167?) = 0.3333333333333333
+Accuracy top three actual vs first predicted (> 0.5?) = 0.7777777777777778
+
+
