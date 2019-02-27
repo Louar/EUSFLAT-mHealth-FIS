@@ -4,3 +4,4 @@ output/out.txt
 !output/rules
 !output-final/performance
 !output-final/rules
+__pycache__
