@@ -1,6 +1,6 @@
 output/out-validation.txt
 output/out.txt
-output/performance
-output/rules
+!output/performance
+!output/rules
 !output-final/performance
 !output-final/rules
