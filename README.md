@@ -5,7 +5,7 @@ This repository is made publicaly available to foster reprodution of the results
 
 ## Getting Started
 ### Prerequisites
-1. Have Python (version 3.6.4) installed, see [python.org](https://www.python.org)
+1. Confirm that the (local) environment has Python (version 3.6.4) installed, see [python.org](https://www.python.org)
 
 ### Local installation
 1. Clone the **master** branch from this GitHub repository, e.g. using [Sourcetree](https://www.sourcetreeapp.com)
