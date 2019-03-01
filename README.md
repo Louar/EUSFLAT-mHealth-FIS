@@ -5,10 +5,15 @@ This repository is made publicaly available to foster reprodution of the results
 
 
 ## Getting Started
+### Prerequisites
+1. Have Python (version 3.6.4) installed, see [python.org](https://www.python.org)
+
+### Local installation
 1. Clone the **master** branch from this GitHub repository, e.g. using [Sourcetree](https://www.sourcetreeapp.com)
 2. Import the local repository into and IDE of your preference, e.g. [Atom](https://atom.io)
 3. Run the file `TsFisController.py`
 
+![](running-example.gif)
 
 ### Project structure
 ```
@@ -23,6 +28,7 @@ This repository is made publicaly available to foster reprodution of the results
 │   ├── performance/
 │   └── rules/
 ├── README.md
+├── running-example.gif
 ├── TsFisController.py
 └── TsFisService.py
 ```
