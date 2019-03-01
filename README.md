@@ -33,9 +33,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduc
 
 ## Authors
 * **Raoul Nuijten** - *Corresponding author* - [personal website](http://www.projectraoul.nl)
+* **Uzay Kaymak** - *Supervisor*
+* **Pieter Van Gorp** - *Supervisor* - [personal website](http://www.pietervangorp.com)
 
 ## License
 This project is licensed under the ... License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-This work is part of the research program ‘[Gamification for Overweight Prevention and Active Lifestyle](https://healthgoal.eu)’ (443001101), which is partly financed by the Netherlands Organisation for Health Research and Development ([ZonMw](https://www.zonmw.nl/en/)).
+This work is part of the research project ‘[GOAL](https://healthgoal.eu)’ (443001101), which is partly financed by the Netherlands Organisation for Health Research and Development ([ZonMw](https://www.zonmw.nl/en/)).
